@@ -26,6 +26,7 @@ This project compares multiple geospatial and hydrographic data products commonl
 | **LiDAR DEM (Digital Elevation Model)**               | Provides true elevation values; supports terrain analysis; enables identification of roads, buildings, rail yards, and terrain features; suitable for shaded relief generation; effective across varied terrain                              | Large file sizes; slower performance compared to shapefiles; difficult to symbolize individual features                                                   |
 | **Hillshade**                                         | Simulates terrain illumination using brightness values; enhances terrain visualization from a 2D perspective; useful for visualizing hills, valleys, and landscape structure                                                                 | Does not contain true elevation values; less analytical capability than DEMs; less useful in flat terrain; large file sizes                               |
 
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/Site-Selection-Firm/blob/main/Finra.png">
 ---
 
 # Analysis
