@@ -68,4 +68,7 @@ LiDAR DEM datasets provide accurate elevation analysis capabilities and support 
 
 Each geospatial product provides unique operational advantages depending on the mission requirement. Military operations benefit from DNC integration and tactical interoperability, while commercial maritime applications rely heavily on ENC standards. Terrain analysis workflows achieve the greatest analytical value from LiDAR DEM datasets, with hillshade products serving as supplemental visualization tools.
 
+<img width="1000" alt="image" src="https://github.com/JamesA-usa/vector-raster/blob/main/Picture1.jpg">
+
+
 ---
